@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: emoji_visualizer
+Version: 0.1.0
+Summary: A Python library to visualize all emojis.
+Home-page: https://github.com/aditya26062003/emoji_visualizer
+Author: Your Name
+Author-email: adityarathore2606@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: matplotlib
+Requires-Dist: emoji
