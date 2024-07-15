@@ -1,4 +1,3 @@
-LICENSE
 README.md
 setup.py
 emoji_visualizer/__init__.py
