@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/emoji_visualizer/__init__.py
+src/emoji_visualizer/visualizer.py
+src/emoji_visualizer_adi26062003.egg-info/PKG-INFO
+src/emoji_visualizer_adi26062003.egg-info/SOURCES.txt
+src/emoji_visualizer_adi26062003.egg-info/dependency_links.txt
+src/emoji_visualizer_adi26062003.egg-info/top_level.txt
+tests/test_visualizer.py
