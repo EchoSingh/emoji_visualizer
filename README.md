@@ -13,7 +13,7 @@ A Python library to visualize all emojis in a grid using `matplotlib`.
 You can install the library using `pip`:
 
 ```bash
-pip install emoji_visualizer
+pip install -i https://test.pypi.org/simple/ emoji-visualizer-adi2606==0.0.1
 ```
 ## Usage
 Here's how you can use the emoji_visualizer library to visualize emojis:
