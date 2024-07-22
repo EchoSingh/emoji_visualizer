@@ -54,7 +54,6 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 pip install -r requirements.txt
 ```
-## Start contributing and make sure to add tests for new features or fixes!
 
 ## License
 This project is licensed under the MIT License .
