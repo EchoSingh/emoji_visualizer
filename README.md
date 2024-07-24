@@ -33,7 +33,7 @@ Contributions are welcome! If you have any ideas, suggestions, or bug reports, p
 
 ```bash
 
-git clone https://github.com/aditya26062003/emoji_visualizer.git
+git clone https://github.com/EchoSingh/emoji_visualizer.git
 ```
 ## Navigate to the project directory:
 
